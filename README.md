@@ -1,5 +1,10 @@
 # 職務経歴書
 
+## 資格
+- 基本情報技術者（2021.12）
+- Java Programmer Silver SE11（2023.01）
+- AWS Certified Cloud Practitioner（2023.12）
+
 ## スキル
 
 ### 言語
